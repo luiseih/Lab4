@@ -11,12 +11,12 @@ Notes:
 * Write a method in addition to main called displayArray(...). It should take a single parameter with type array of integer. It should display the elements of the passed array to the console on a single line. Elements should be comma separated. There should be no trailing comma after the last element. An example output appears below. This method
 should be called to display the array before and after sorting.
 
-'''
+```
 Size of array to sort?
 20
 75, 61, 24, 39, 82, 84, 24, 76, 24, 78, 62, 46, 75, 100, 87, 91, 92, 46, 70, 10
 10, 24, 24, 24, 39, 46, 46, 61, 62, 70, 75, 75, 76, 78, 82, 84, 87, 91, 92, 100
-'''
+```
 
 The ask block assigns the input it collects to the answer variable automatically in Scribble.
 
